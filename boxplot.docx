@@ -1,0 +1,27 @@
+Definition: A box-and-whisker plot or boxplot is a diagram based on the five-number summarytext annotation indicator of a data set.
+
+To construct this diagram, we first draw an equal interval scale on which to make our box plot. Do not just draw a boxplot shape and label points with the numbers from the 5-number summary. The boxplot is a visual representation of the distribution of the data. Greater distances in the diagram should correspond to greater distances between numeric values.
+
+Using the equal interval scale, we draw a rectangular box with one end at Q1 and the other end at Q3. And then we draw a vertical segment at the median value. Finally, we draw two horizontal segments on each side of the box, one down to the minimum value and one up to the maximum value, (these segments are called the "whiskers").  
+
+Example 1: Draw a box-and-whisker plot for the data set {3, 7, 8, 5, 12, 14, 21, 13, 18}.
+
+From our Example 1 on the previous page, we had the five-number summary:
+
+Minimum: 3, Q1 : 6, Median: 12, Q3 : 16, and Maximum: 21.
+
+Notice that in any box-and-whisker plot, the left-side whisker represents where we find approximately the lowest 25% of the data and the right-side whisker represents where we find approximately the highest 25% of the data. The box part represents the interquartile range and represents approximately the middle 50% of all the data. The data is divided into four regions, which each represent approximately 25% of the data. This gives us a nice visual representation of how the data is spread out across the range.
+
+Example 2: Draw a box-and-whisker plot for the data set {3, 7, 8, 5, 12, 14, 21, 15, 18, 14}.
+
+From our Example 2 on the previous page, we had the five-number summary:
+
+Minimum: 3, Q1: 7, Median: 13, Q3: 15, and Maximum: 21.
+
+When we relate two data sets based on the same scale, we may examine box-and-whisker plots to get an idea of how the two data sets compare.
+
+Example 3: Suppose that the box-and-whisker plots below represent quiz scores out of 25 points for Quiz 1 and Quiz 2 for the same class.
+
+What do these box-and-whisker plots show about how the class did on test #2 compared to test #1?
+
+These box-and-whisker plots show that the lowest score, highest score, and Q3 are all the same for both exams, so performance on the two exams were quite similar. However, the movement Q1 up from a score of 6 to a score of 9 indicates that there was an overall improvement. On the first test, approximately 75% of the students scored at or above a score of 6. On the second test, the same number of students (75%) scored at or above a score of 9.
